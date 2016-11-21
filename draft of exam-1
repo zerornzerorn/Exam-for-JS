@@ -1,1 +1,39 @@
 
+<html>
+  <div id = "bodyDiv" class = " backColor container-fluid row">
+      <div> <!-- left blank -->
+      </div>
+      
+      <div id = "mainFrame" class="backColor col-lg-8">
+        <div id = "quotation row" >
+          <div id="iconOfQoute" >
+          </div>
+          <div id = "quotationWords">
+          </div>
+        </div>
+        <div id="saidBy" class="text-right">
+        </div>
+        <div id="bottom" class="row">
+          <div id="iconOfTwiters" class="row">
+            <div id="iconOfTwiterBird">
+            </div>
+            <div id="iconOfTwiterLetter">
+            </div>
+            <div>
+            </div>
+            <div>
+            </div>
+          </div>
+          <div id="quote" class="row">
+            <div>
+            </div>
+            <div id = "newQuote">
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div> <!-- right blank -->
+      </div>
+  </div>
+</html>
